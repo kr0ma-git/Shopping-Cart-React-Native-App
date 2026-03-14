@@ -15,9 +15,9 @@
 
 #### IF the above expo command does not start a session or does not work in general:
 
-- Delete pre-existing package-lock.json
-- Delete pre-existing node_modules
-- Run in the root directory's terminal:
+1. Delete pre-existing package-lock.json
+2. Delete pre-existing node_modules
+3. Run in the root directory's terminal:
 
 ```bash
 npm install
