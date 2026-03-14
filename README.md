@@ -17,10 +17,11 @@
 
 1. Delete pre-existing package-lock.json
 2. Delete pre-existing node_modules
-3. Run in the root directory's terminal:
+
+#### Then run in the root directory's terminal:
 
 ```bash
-npm install
+    npm install
 ```
 
 ##### This should reinstall all necessary node_modules.
